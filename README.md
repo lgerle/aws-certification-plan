@@ -107,7 +107,7 @@ With these steps alone you have a plan for what and how to study, but to truly a
 
 Next up is how to get more hands-on experience, practicing for the AWS Certification exam, and staying relevant after you have achieved AWS certification. Stay tuned!
 
-End of Part 1! - <a href="https://www.webagesolutions.com/8-steps-to-the-ultimate-aws-certification-plan-for-2021">Read More Here</a></span> </span>today!
+End of Part 1! - <a href="https://www.webagesolutions.com/8-steps-to-the-ultimate-aws-certification-plan-for-2021">Read More Here</a></span> </span>
 
 <h2>Now It's Your Turn!</h2>
 Get started with<span style="text-decoration: underline;"> <span style="font-size: 14pt;"><a href="https://www.webagesolutions.com/courses/aws-training-courses">Amazon AWS Certification Training</a></span> </span>today!
