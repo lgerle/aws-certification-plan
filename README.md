@@ -8,7 +8,7 @@ for 2021.</span>
 <span style="font-size: 16pt; color: #ffffff;">Keep reading!</span>
 
 <a href="https://www.webagesolutions.com/8-steps-to-the-ultimate-aws-certification-plan-for-2021">Read Complete Article Here</a>
-<h2 style="text-align: center;">What are the 8 Steps to Creating the Ultimate Meaningful AWS Certification Plan in 2021?</h2>
+<h1 style="text-align: center;">What are the 8 Steps to Creating the Ultimate Meaningful Amazon AWS Certification Plan in 2021?</h1>
 <img class="alignleft wp-image-21327 size-full" src="https://www.webagesolutions.com/wp-content/uploads/2021/02/Picture1-e1612301117650.jpg" alt="Amazon AWS Certification Plan" width="500" height="333" />
 Amazon AWS certification is HOT!
 
@@ -23,7 +23,7 @@ Even in a more conservative manufacturing and distribution business, I have pers
 Let’s get started!
 
 <img class="alignleft size-medium wp-image-21239" src="https://www.webagesolutions.com/wp-content/uploads/2021/02/8-steps-aws.jpg" alt="steps to amazon aws certification" width="300" height="195" />
-<h2 style="text-align: center;">Here Are the 8 Steps to Create the Ultimate Meaningful AWS Certification Plan for 2021!</h2>
+<h2 style="text-align: center;">Here Are the 8 Steps to Create the Ultimate Meaningful Amazon AWS Certification Plan for 2021!</h2>
 <ul>
  	<li><span style="font-size: 16pt;"><span style="color: #ff9900;">Step 1:  </span>A Compelling Why!</span></li>
  	<li><span style="font-size: 16pt;"><span style="color: #ff9900;">Step 2: </span> Which Amazon AWS Certification?</span></li>
